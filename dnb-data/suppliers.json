@@ -178,8 +178,5 @@
     "rating": 4.9,
     "annual_revenue": 8500000,
     "certifications": ["ISO 14001"]
-  },
-  {
-    "supplier_id": "SUP011",
-    "name": "STU Marketing",
-    "
+  }
+]
