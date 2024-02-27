@@ -1,0 +1,185 @@
+[
+  {
+    "supplier_id": "SUP001",
+    "name": "ABC Manufacturing",
+    "contact_person": "John Smith",
+    "email": "john@abcmanufacturing.com",
+    "phone": "+1 (555) 123-4567",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "postal_code": "12345",
+      "country": "USA"
+    },
+    "products": ["Electronics", "Components"],
+    "rating": 4.5,
+    "annual_revenue": 5000000,
+    "certifications": ["ISO 9001", "ISO 14001"]
+  },
+  {
+    "supplier_id": "SUP002",
+    "name": "XYZ Enterprises",
+    "contact_person": "Jane Doe",
+    "email": "jane@xyzenterprises.com",
+    "phone": "+1 (555) 987-6543",
+    "address": {
+      "street": "456 Oak St",
+      "city": "Smalltown",
+      "state": "NY",
+      "postal_code": "54321",
+      "country": "USA"
+    },
+    "products": ["Raw Materials", "Chemicals"],
+    "rating": 4.2,
+    "annual_revenue": 3000000,
+    "certifications": ["ISO 9001"]
+  },
+  {
+    "supplier_id": "SUP003",
+    "name": "LMN Technologies",
+    "contact_person": "Michael Johnson",
+    "email": "michael@lmntech.com",
+    "phone": "+1 (555) 111-2222",
+    "address": {
+      "street": "789 Elm St",
+      "city": "Metroville",
+      "state": "TX",
+      "postal_code": "67890",
+      "country": "USA"
+    },
+    "products": ["Software", "IT Services"],
+    "rating": 4.7,
+    "annual_revenue": 7000000,
+    "certifications": ["ISO 27001"]
+  },
+  {
+    "supplier_id": "SUP004",
+    "name": "PQR Solutions",
+    "contact_person": "Emily Rogers",
+    "email": "emily@pqrsolutions.com",
+    "phone": "+1 (555) 333-4444",
+    "address": {
+      "street": "321 Pine St",
+      "city": "Harbortown",
+      "state": "FL",
+      "postal_code": "13579",
+      "country": "USA"
+    },
+    "products": ["Consulting", "Training"],
+    "rating": 4.0,
+    "annual_revenue": 2500000,
+    "certifications": []
+  },
+  {
+    "supplier_id": "SUP005",
+    "name": "RST Logistics",
+    "contact_person": "David Williams",
+    "email": "david@rstlogistics.com",
+    "phone": "+1 (555) 666-7777",
+    "address": {
+      "street": "987 Maple St",
+      "city": "Portville",
+      "state": "WA",
+      "postal_code": "24680",
+      "country": "USA"
+    },
+    "products": ["Transportation", "Warehousing"],
+    "rating": 4.3,
+    "annual_revenue": 4000000,
+    "certifications": ["ISO 14001"]
+  },
+  {
+    "supplier_id": "SUP006",
+    "name": "EFG Distributors",
+    "contact_person": "Sarah Brown",
+    "email": "sarah@efgdistributors.com",
+    "phone": "+1 (555) 888-9999",
+    "address": {
+      "street": "654 Cedar St",
+      "city": "Mountainview",
+      "state": "CO",
+      "postal_code": "97531",
+      "country": "USA"
+    },
+    "products": ["Consumer Goods", "Apparel"],
+    "rating": 4.6,
+    "annual_revenue": 6000000,
+    "certifications": ["ISO 9001", "ISO 14001"]
+  },
+  {
+    "supplier_id": "SUP007",
+    "name": "UVW Construction",
+    "contact_person": "Mark Taylor",
+    "email": "mark@uvwconstruction.com",
+    "phone": "+1 (555) 222-3333",
+    "address": {
+      "street": "147 Walnut St",
+      "city": "Rivertown",
+      "state": "IL",
+      "postal_code": "86420",
+      "country": "USA"
+    },
+    "products": ["Construction Materials", "Equipment Rental"],
+    "rating": 4.4,
+    "annual_revenue": 4500000,
+    "certifications": []
+  },
+  {
+    "supplier_id": "SUP008",
+    "name": "HIJ Pharmaceuticals",
+    "contact_person": "Anna Martinez",
+    "email": "anna@hijpharma.com",
+    "phone": "+1 (555) 777-8888",
+    "address": {
+      "street": "369 Oak St",
+      "city": "Greenville",
+      "state": "NC",
+      "postal_code": "75321",
+      "country": "USA"
+    },
+    "products": ["Pharmaceuticals", "Medical Supplies"],
+    "rating": 4.8,
+    "annual_revenue": 8000000,
+    "certifications": ["FDA Approved"]
+  },
+  {
+    "supplier_id": "SUP009",
+    "name": "OPQ Food Products",
+    "contact_person": "Carlos Hernandez",
+    "email": "carlos@opqfood.com",
+    "phone": "+1 (555) 444-5555",
+    "address": {
+      "street": "753 Pine St",
+      "city": "Fruitvale",
+      "state": "CA",
+      "postal_code": "24680",
+      "country": "USA"
+    },
+    "products": ["Food Ingredients", "Packaging"],
+    "rating": 4.1,
+    "annual_revenue": 3500000,
+    "certifications": ["FDA Approved"]
+  },
+  {
+    "supplier_id": "SUP010",
+    "name": "MNO Energy Solutions",
+    "contact_person": "Kevin Lee",
+    "email": "kevin@mnoenergy.com",
+    "phone": "+1 (555) 999-0000",
+    "address": {
+      "street": "963 Elm St",
+      "city": "Energytown",
+      "state": "TX",
+      "postal_code": "13579",
+      "country": "USA"
+    },
+    "products": ["Renewable Energy", "Energy Consulting"],
+    "rating": 4.9,
+    "annual_revenue": 8500000,
+    "certifications": ["ISO 14001"]
+  },
+  {
+    "supplier_id": "SUP011",
+    "name": "STU Marketing",
+    "
